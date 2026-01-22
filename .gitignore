@@ -1,0 +1,23 @@
+# Archivos compilados de Java
+*.class
+
+# Archivos de compilación de IDEs
+# Visual Studio Code
+.vscode/
+.settings/
+*.project
+*.classpath
+bin/
+target/
+
+# Paquetes JAR
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
